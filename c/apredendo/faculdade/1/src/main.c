@@ -29,11 +29,11 @@ int main()
    printf("sua sub: %d", num1-num2);
     break;
    case 3:
-    printf("sua sub: %d", num1*num2);
+    printf("sua mult: %d", num1*num2);
 
     break;
    case 4:
-    printf("sua sub: %d", num1/num2);
+    printf("sua div: %d", num1/num2);
 
     break;
 
